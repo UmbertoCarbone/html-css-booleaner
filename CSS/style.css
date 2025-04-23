@@ -10,3 +10,19 @@ p {
     color:aqua;
     background-color: transparent;
 }
+
+thead {
+    background-color:rgb(60, 157, 248);
+}
+
+tbody {
+    background-color: rgb(146, 217, 245);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.white {
+    background-color: white;
+}
