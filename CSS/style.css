@@ -1,0 +1,12 @@
+span {
+background-color: yellow;
+}
+
+p {
+    color: lightgray;
+}
+
+.highlight {
+    color:aqua;
+    background-color: transparent;
+}
